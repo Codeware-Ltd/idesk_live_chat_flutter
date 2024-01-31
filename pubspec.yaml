@@ -1,7 +1,7 @@
 name: idesk_live_chat
 description: "Flutter package of IDesk live chat."
 
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Codeware-Ltd/idesk_live_chat_flutter.git
 
 environment:
